@@ -53,7 +53,7 @@
 ## &nbsp;GitHub Analytics
 
 <p align="left">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=brit0dev&show_icons=true&theme=github_dark" alt="Brito's stats"/>
+<img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api?username=brit0dev&show_icons=true&theme=github_dark" alt="Brito's stats"/>
 <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brit0dev&layout=compact&theme=github_dark" alt="Brito's most languages"/>
 </p>
 
