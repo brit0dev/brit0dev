@@ -1,5 +1,6 @@
+<!--
 <img align="right" height="530em" src="https://raw.githubusercontent.com/gist/maykbrito/618ef18e3bbb7cdfd200f3a4fc1aabc6/raw/201d47c76006c99fe0dc55ea92e76bdca5537f08/githubcard.svg"/>
-
+-->
 <h1 align="left">Hi, I'm Matheus Brito 👋</h1>
 
 - I'm 25 years old. Passionate about creating websites since I was 13 years old. 
